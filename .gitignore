@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.pyc
+logs/
+tmp/
+dialog_history.db
+data/dialogues.txt
+data/emo_dict.csv
+models/
+.venv/
+.idea/
+.vscode/
