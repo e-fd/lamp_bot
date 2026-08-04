@@ -1,0 +1,11 @@
+aiogram==3.13.1
+python-dotenv==1.0.1
+scikit-learn==1.5.2
+numpy==2.1.1
+nltk==3.9.1
+pymorphy3==2.0.2
+pymorphy3-dicts-ru==2.4.417150.4580142
+natasha==1.6.0
+vosk==0.3.45
+pyttsx3==2.90
+aiohttp==3.10.5
